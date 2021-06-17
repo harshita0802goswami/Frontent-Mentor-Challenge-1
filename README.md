@@ -14,8 +14,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/3column-preview-card-component-made-using-html5-css3-flexbox-lutR6JNDO
+- Live Site URL: https://harshita0802goswami.github.io/Frontent-Mentor-Challenge-1/
 
 ## My process
 
