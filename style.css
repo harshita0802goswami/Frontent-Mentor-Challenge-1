@@ -24,14 +24,8 @@ body{
     float: left; 
    
 }
-#suv{
-    background-color: hsl(184, 100%, 22%);
-}
 #suv-btn{
     background-color: hsl(184, 100%, 22%);
-}
-#luxury{
-    background-color: hsl(179, 100%, 13%);
 }
 #lux-btn{
     background-color: hsl(179, 100%, 13%);
